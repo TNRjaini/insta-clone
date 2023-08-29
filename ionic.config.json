@@ -1,0 +1,8 @@
+{
+  "name": "insta_clone",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "7ca587ec"
+}
